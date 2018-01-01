@@ -1,3 +1,3 @@
-if (Math.random() <= 0.10) {
+if (Math.random() <= 0.05) {
   location.href = "https://cache-longforecast.com";
 }
